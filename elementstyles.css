@@ -210,6 +210,28 @@
 
 
 
+/*text-highlight */
+  .highlight-background{
+    padding: 1.25em 2.375em;
+
+  }
+  
+  .lightpink{
+    background-color: #faecec;
+  }
+  
+  .lightblue{
+    background-color: #e6eff6;
+  }
+  
+  .lightgrey{
+   	background-color:#F2F2F2; 
+  }
+  
+   .lightgreen{
+   	background-color:#e6f7e4; 
+  }
+
 
 
 
