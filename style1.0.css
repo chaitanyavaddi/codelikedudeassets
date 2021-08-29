@@ -1,7 +1,6 @@
 /* pros and cons table */
 
 .K2-pros-cons {
-  font-family: "Raleway", sans-serif;
   display: flex;
   max-width: 700px;
   margin: 32px auto;
