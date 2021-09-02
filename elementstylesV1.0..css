@@ -231,6 +231,15 @@
    	background-color:#e6f7e4; 
   }
 
-
+/* Special Header*/
+.note-header{
+ background: #333!important;
+    color: #fff !important;
+    border-left: 50px solid #e3393a;
+    padding: 10px;
+    43px -7px 0px !important
+  
+  
+}
 
 
